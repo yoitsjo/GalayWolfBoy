@@ -1,2 +1,2 @@
-# GalayWolfBoy
-cool
+this was made by
+  GalaxyWolfBoy
