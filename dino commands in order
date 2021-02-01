@@ -1,0 +1,15 @@
+Want to change the speed well heres the code:
+Runner.instance_.setSpeed(1000)
+
+Want to change not dying here the code:
+(reset the game but not anything else)
+var original = Runner.prototype.gameOver
+(the non-dying cheat)
+Runner.prototype.gameOver = function(){}
+
+your going to like this one. everr wonder how people got so good that they got alot of points they didnt they cheated so you can too by using this cheat:
+Runner.instance_.distanceRan = 12345 / Runner.instance_.distanceMeter.config.COEFFICIENT
+
+want to jump higher here it is:
+Runner.instance_.tRex.setJumpVelocity(10
+well  there you have some cheats to break the game go crazy with the cheats but pls (DONT DO IT DURING SCHOOL) thx
